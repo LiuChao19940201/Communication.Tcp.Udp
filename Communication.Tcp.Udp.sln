@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communication.Tcp.Udp", "Communication.Tcp.Udp\Communication.Tcp.Udp.csproj", "{0124179B-F89B-4E26-B38F-C4506C96104E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communication.Tcp.Udp-TestDemo", "Communication.Tcp.Udp-TestDemo\Communication.Tcp.Udp-TestDemo.csproj", "{D81D8EC2-EB27-487C-B874-037ECD0A1C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0124179B-F89B-4E26-B38F-C4506C96104E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0124179B-F89B-4E26-B38F-C4506C96104E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0124179B-F89B-4E26-B38F-C4506C96104E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0124179B-F89B-4E26-B38F-C4506C96104E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81D8EC2-EB27-487C-B874-037ECD0A1C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81D8EC2-EB27-487C-B874-037ECD0A1C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81D8EC2-EB27-487C-B874-037ECD0A1C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81D8EC2-EB27-487C-B874-037ECD0A1C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBCB13D-C2EE-4A89-8F0F-403574BB30D2}
+	EndGlobalSection
+EndGlobal
