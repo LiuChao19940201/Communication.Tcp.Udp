@@ -12,6 +12,7 @@
             <ColumnDefinition Width="0.4*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+		
 
         <Border Grid.Column="0" Margin="5" BorderThickness="1" BorderBrush="Gray">
             <StackPanel Margin="10 0 10 0">
